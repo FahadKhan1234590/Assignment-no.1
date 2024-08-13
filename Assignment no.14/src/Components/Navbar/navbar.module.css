@@ -1,0 +1,13 @@
+@media (min-width : 768px) {
+    .display{
+        display : "none"
+    }
+}
+
+@media (max-width : 574px) {
+    .menuBar{
+        margin-left: 82%;
+        margin-top: -72px ;
+        /* margin-top: ; */
+    }
+}

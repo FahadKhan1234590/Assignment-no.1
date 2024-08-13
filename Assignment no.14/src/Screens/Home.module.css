@@ -1,0 +1,23 @@
+.bgimg{
+    background-image: url('../assets/Hero-Background-D_KtWhEN.jpg');
+    background-size: 140%;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+@media (max-width : 768px){
+    .bgimg{
+        background-size: 500%;
+
+    }
+    .textalign{
+        text-align: center;
+    }
+}
+
+.divider{
+    background-image: url('../assets/border.png');
+    background-size: contain;
+    height: 15px;
+}
+
