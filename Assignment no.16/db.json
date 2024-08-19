@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 4,
+      "name": "Glenna Reichert edited",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com"
+    },
+    {
+      "id": 5,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804",
+      "website": "ambrose.net"
+    },
+    {
+      "name": "Muhammad Faraz edited",
+      "username": "mFaraz2001",
+      "email": "faraz786@gmail.com",
+      "phone": "0309-1231718",
+      "id": 6
+    },
+    {
+      "name": "Tony Stark",
+      "username": "tony_stark",
+      "email": "tony12@gmail.com",
+      "phone": "91-457-123-5400",
+      "id": 8
+    },
+    {
+      "name": "Bruce Banner",
+      "username": "burce_12",
+      "email": "Bruce@gmail.com",
+      "phone": "75-850-960-026",
+      "id": 10
+    },
+    {
+      "name": "John Cena",
+      "username": "john_cena",
+      "email": "johnCena@gmail.com",
+      "phone": "92-0958-5123-51",
+      "id": 11
+    },
+    {
+      "name": "fa",
+      "email": "fa@gmail.com",
+      "phone": "12345",
+      "id": 14
+    },
+    {
+      "name": "F",
+      "email": "W@gmail.com",
+      "phone": "2345",
+      "id": 15
+    },
+    {
+      "name": "Fahad New",
+      "email": "d@gmail.com",
+      "phone": "44",
+      "id": 16
+    }
+  ]
+}
