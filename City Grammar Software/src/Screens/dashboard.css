@@ -1,0 +1,16 @@
+/* dashboard.css */
+.citygrammarsidebar {
+    /* Default styling for sidebar */
+  }
+  
+  @media (max-width: 767px) {
+    .citygrammarsidebar {
+      /* Sidebar hidden by default on small screens */
+      display: none ;
+    }
+  }
+  
+
+.definingsidebarwidthsmall{
+    width :"100%"
+} 

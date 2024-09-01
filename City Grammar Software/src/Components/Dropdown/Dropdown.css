@@ -1,0 +1,16 @@
+.dropdownonhover:hover{
+   background-color: rgb(222, 222, 222);
+   cursor: pointer;
+}
+
+.dropdownonhover{
+    box-shadow: 20px 20px 2px 2px black;
+
+}
+.onhovertextcolor:hover{
+    color: white !important;
+}
+
+.typocolor{
+    color : black !important
+}

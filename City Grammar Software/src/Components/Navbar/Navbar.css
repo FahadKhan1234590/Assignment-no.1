@@ -1,0 +1,18 @@
+.citygrammarnavbar{
+    background-color: green;
+}
+.citygrammarnavinside{
+margin-left: 300px;
+}
+
+@media (max-width: 767px){
+    .citygrammarnavinside{
+        margin-left: 4px;
+        } 
+}
+
+@media (min-width: 767px){
+    .citygrammarnavbar{
+        display: block !important   ;
+        } 
+}

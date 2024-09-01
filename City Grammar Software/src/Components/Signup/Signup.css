@@ -1,0 +1,30 @@
+.pass_inp{
+    width:90%;
+    font-size: 16px;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    height: 1%;
+}
+
+@media (max-width : 880px) {
+    .pass_inp{
+        width:88%;
+    }
+        
+}
+
+@media (max-width : 353px) {
+    .pass_inp{
+        width:83%;
+    }
+        
+}
+
+.pass_inp:focus{
+    outline: none !important;
+}
+
+
+.cursorpointeronhover:hover{
+    cursor: pointer;
+}
